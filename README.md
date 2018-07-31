@@ -1,5 +1,6 @@
-# Je-me-présente
-# https://test2appigwen.herokuapp.com/
+# Appli je-me-presenteJe-me-présente
+
+## https://app-jmepresente.herokuapp.com/
 
 # README
 
@@ -12,5 +13,3 @@ ruby '2.5.1'
 ```
 $ heroku open
 ```
-
-Fait par CASSAND Gwendoline
