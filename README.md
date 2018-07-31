@@ -1,6 +1,6 @@
 # README
 
-### Appli je-me-presenteJe-me-présente
+### Appli je-me-presente
 
 https://app-jmepresente.herokuapp.com/
 
